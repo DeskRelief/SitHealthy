@@ -12,7 +12,7 @@ Move More is a beautifully lightweight desktop app that can run in the backgroun
 
 ## Screenshots
 
-![Move More](https://deskrelief.co.uk/img/feature/feature-1.jpg "Move More")
-![Move More](https://deskrelief.co.uk/img/feature/feature-2.jpg "Move More")
-![Move More](https://deskrelief.co.uk/img/feature/feature-3.jpg "Move More")
-![Move More](https://deskrelief.co.uk/img/feature/feature-4.jpg "Move More")
+![Move More](https://s3.eu-west-2.amazonaws.com/deskrelief.co.uk/img/feature/feature-1.jpg "Move More")
+![Move More](https://s3.eu-west-2.amazonaws.com/deskrelief.co.uk/img/feature/feature-2.jpg "Move More")
+![Move More](https://s3.eu-west-2.amazonaws.com/deskrelief.co.uk/img/feature/feature-3.jpg "Move More")
+![Move More](https://s3.eu-west-2.amazonaws.com/deskrelief.co.uk/img/feature/feature-4.jpg "Move More")
