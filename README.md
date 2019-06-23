@@ -1,3 +1,5 @@
+<img src="https://electronjs.org/app-img/move-more/move-more-icon-128.png" alt="Move More">
+
 # Move More
 Move More is a beautifully lightweight desktop app that can run in the background. 
 
