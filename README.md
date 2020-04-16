@@ -1,7 +1,7 @@
-<img src="https://electronjs.org/app-img/move-more/move-more-icon-128.png" alt="Move More">
+<img src="https://electronjs.org/app-img/move-more/move-more-icon-128.png" alt="Sit Healthy">
 
-# Move More
-Move More is a beautifully lightweight desktop app that can run in the background. 
+# Sit Healthy
+Sit Healthy is a lightweight desktop app that runs in the background. 
 
 
 - Smart reminders notify you when it's time to get up and move from your desk. 
@@ -14,7 +14,7 @@ Move More is a beautifully lightweight desktop app that can run in the backgroun
 
 ## Screenshots
 
-![Move More](https://deskrelief.co.uk/img/feature/feature-1.jpg "Move More")
-![Move More](https://deskrelief.co.uk/img/feature/feature-2.jpg "Move More")
-![Move More](https://deskrelief.co.uk/img/feature/feature-3.jpg "Move More")
-![Move More](https://deskrelief.co.uk/img/feature/feature-4.jpg "Move More")
+![Sit Healthy](https://deskrelief.co.uk/img/feature/feature-1.jpg "Sit Healthy")
+![Sit Healthy](https://deskrelief.co.uk/img/feature/feature-2.jpg "Sit Healthy")
+![Sit Healthy](https://deskrelief.co.uk/img/feature/feature-3.jpg "Sit Healthy")
+![Sit Healthy](https://deskrelief.co.uk/img/feature/feature-4.jpg "Sit Healthy")
