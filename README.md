@@ -1,5 +1,3 @@
-<img src="https://electronjs.org/app-img/move-more/move-more-icon-128.png" alt="Sit Healthy">
-
 # Sit Healthy
 Sit Healthy is a lightweight desktop app that runs in the background. 
 
